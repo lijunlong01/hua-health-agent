@@ -1,0 +1,11 @@
+streamlit==1.63.0
+scikit-learn==1.9.0
+xgboost==3.4.1
+catboost==1.2.10
+shap==0.52.0
+numpy==2.5.2
+pandas==2.3.3
+plotly==7.0.0
+pytesseract>=0.3.10
+Pillow>=10.0
+scipy>=1.11
